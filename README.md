@@ -1,5 +1,5 @@
 ## BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
-## PROGRAM
+
 
 DEVELOPED BY : JEEVAPRIYA R
 
