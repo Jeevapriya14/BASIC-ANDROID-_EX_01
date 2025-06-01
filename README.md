@@ -10,7 +10,7 @@ REGISTER NO: 212222220018
 
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
 
-EQUIPMENTS REQUIRED:
+### EQUIPMENTS REQUIRED:
 
 Android Studio(Min. required Artic Fox)
 
